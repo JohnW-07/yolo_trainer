@@ -1,0 +1,6 @@
+*.pt
+
+runs/
+
+train_set/
+yolo_dataset/
